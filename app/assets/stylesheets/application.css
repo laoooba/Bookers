@@ -28,6 +28,6 @@ p{
   line-height: 18px;
 }
 
-#notice {
+.alert {
   color: green;
 }

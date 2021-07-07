@@ -18,7 +18,7 @@ class BooksController < ApplicationController
       redirect_to book_path(book.id)
     else
       flash.now[:danger] = "2 errors prohibited this book from being saved:"
-      render :new
+      render :index
     end
   end
 
