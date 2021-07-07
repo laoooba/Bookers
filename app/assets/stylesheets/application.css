@@ -14,7 +14,7 @@
  *= require_self
  */
 
-
+@import "bootstrap";
 
 body{
   font-family: verdana, arial, helvetica, sans-serif;
@@ -26,4 +26,8 @@ body{
 p{
   margin:33px;
   line-height: 18px;
+}
+
+#notice {
+  color: green;
 }
