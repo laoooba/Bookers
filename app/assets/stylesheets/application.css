@@ -14,19 +14,19 @@
  *= require_self
  */
 
-@import "bootstrap";
+/*@import "bootstrap";*/
 
-body{
-  font-family: verdana, arial, helvetica, sans-serif;
-  line-height: 18px;
-  margin: 33px;
-  font-size:13px;
-}
+/*body{*/
+/*  font-family: verdana, arial, helvetica, sans-serif;*/
+/*  line-height: 18px;*/
+/*  margin: 33px;*/
+/*  font-size:13px;*/
+/*}*/
 
-p{
-  margin:33px;
-  line-height: 18px;
-}
+/*p{*/
+/*  margin:33px;*/
+/*  line-height: 18px;*/
+/*}*/
 
 .alert {
   color: green;
